@@ -35,6 +35,7 @@ happy# Contributors
 - [Brady Wisniewski]
 - [Nolan Newman]
 - [Eli Vatsaas]
+- [Avion C.](https://github.com/AvionShea)
 - [Joseph Laity]
 - [Bryan Record]
 - [Antoine Héritier](https://github.com/antoheri)
